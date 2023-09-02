@@ -7,8 +7,7 @@ The objective of this project is to predict the probability of default on a give
 ## Approach
  1. Data preparation and Pre-processing
      - Checking missing values
-     - Outliers removal
-     - Encoding concept
+     - Visualising data
  2. Feature Engineering and Selection
      - features selection
      - Scaling the features
