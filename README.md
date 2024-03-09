@@ -35,7 +35,7 @@ The objective of this project is to predict the probability of default on a give
 - Cross validation
 
 ## Model Evaluation
-- we have acheived the final model accuracy 82%
+- The final model accuracy was found to be 82%
 
 ## Conclusion:
 We have built the credit risk model by using python. we have tried with different machine learning algorithms ie. Logistic regression, Random Forest, and Xgboost classifier. we have also done hyperparameter tuning and cross-validation. The final accuracy of the model we achieved was 82%.
